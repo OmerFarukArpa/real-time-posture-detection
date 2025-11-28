@@ -90,7 +90,7 @@ Text labels display the angles and posture status in real-time.
 
 ---
 
-## 🖼️ Project Visuals
+## 🖼️ Theoretical Image
 
 <p float="left">
   <img src="images/image_1.jpeg" width="150" style="margin-right:10px; margin-bottom:10px" />
